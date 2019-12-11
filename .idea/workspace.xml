@@ -3,13 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="49dfc381-ee1b-4d0f-882e-1952a7f2b2f1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/common/HelloConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/DesignPatternsAppApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/controller/AppController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/factory/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/factory/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/factory/Pet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/factory/PetFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/planiet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planiet/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/planiet/resource/ArticleResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planiet/resource/ArticleResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/planiet/resource/BookResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planiet/resource/BookResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/planiet/resource/VideoResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/planiet/resource/VideoResource.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/planiet/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="107">
+              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResourceInfoIterator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ResourceInfoIterator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/planiet/iterator/ResourceInfoIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+            <state relative-caret-position="270">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,15 +73,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResourceInfo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/planiet/adapter/ResourceInfo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ResourceInfoAdapter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/planiet/adapter/ResourceInfoAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,6 +84,15 @@
                 <element signature="e#349#350#0" expanded="true" />
                 <element signature="e#397#398#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LearningResource.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/planiet/resource/LearningResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -112,15 +109,19 @@
       <file leaf-file-name="BookResource.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/planiet/resource/BookResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+            <state relative-caret-position="510">
+              <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
               <folding>
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
+                <element signature="e#845#846#0" expanded="true" />
+                <element signature="e#873#874#0" expanded="true" />
+                <element signature="e#925#926#0" expanded="true" />
+                <element signature="e#959#960#0" expanded="true" />
+                <element signature="e#1004#1005#0" expanded="true" />
+                <element signature="e#1074#1075#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,15 +130,19 @@
       <file leaf-file-name="VideoResource.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/planiet/resource/VideoResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            <state relative-caret-position="495">
+              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
               <folding>
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#343#344#0" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#683#684#0" expanded="true" />
+                <element signature="e#751#752#0" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
+                <element signature="e#843#844#0" expanded="true" />
+                <element signature="e#871#872#0" expanded="true" />
+                <element signature="e#923#924#0" expanded="true" />
+                <element signature="e#957#958#0" expanded="true" />
+                <element signature="e#1002#1003#0" expanded="true" />
+                <element signature="e#1069#1070#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -146,15 +151,19 @@
       <file leaf-file-name="ArticleResource.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/planiet/resource/ArticleResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            <state relative-caret-position="480">
+              <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
               <folding>
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <element signature="e#418#419#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#635#636#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -196,9 +205,9 @@
         <option value="$PROJECT_DIR$/src/main/java/planiet/InfoLibrary.java" />
         <option value="$PROJECT_DIR$/src/main/java/planiet/iterator/InfoTracker.java" />
         <option value="$PROJECT_DIR$/src/main/java/planiet/iterator/ResourceInfoIterator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/planiet/resource/ArticleResource.java" />
         <option value="$PROJECT_DIR$/src/main/java/planiet/resource/VideoResource.java" />
         <option value="$PROJECT_DIR$/src/main/java/planiet/resource/BookResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/planiet/resource/ArticleResource.java" />
         <option value="$PROJECT_DIR$/src/main/java/planiet/Main.java" />
       </list>
     </option>
@@ -503,12 +512,12 @@
       <workItem from="1575615566007" duration="3425000" />
       <workItem from="1575679731691" duration="2111000" />
       <workItem from="1575930470090" duration="480000" />
-      <workItem from="1576027459908" duration="4912000" />
+      <workItem from="1576027459908" duration="6979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10928000" />
+    <option name="totallyTimeSpent" value="12995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="1417" extended-state="0" />
@@ -532,10 +541,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3939394" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3939394" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32954547" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
       <window_info anchor="bottom" id="Problems" order="7" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
@@ -740,24 +749,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/planiet/resource/LearningResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/planiet/adapter/ResourceInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/planiet/factory/ResourceFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -784,48 +779,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/planiet/resource/ArticleResource.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/planiet/iterator/ResourceInfoIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        <state relative-caret-position="270">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
           <folding>
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/planiet/resource/BookResource.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/planiet/factory/ResourceFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/planiet/resource/VideoResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding>
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -842,20 +809,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/planiet/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/planiet/resource/LearningResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/planiet/resource/VideoResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#1002#1003#0" expanded="true" />
+            <element signature="e#1069#1070#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/planiet/iterator/ResourceInfoIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/planiet/resource/BookResource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        <state relative-caret-position="510">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+          <folding>
+            <element signature="e#651#652#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#959#960#0" expanded="true" />
+            <element signature="e#1004#1005#0" expanded="true" />
+            <element signature="e#1074#1075#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/planiet/resource/ArticleResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/planiet/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
