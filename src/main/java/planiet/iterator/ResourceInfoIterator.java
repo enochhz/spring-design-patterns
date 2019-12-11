@@ -25,7 +25,7 @@ public class ResourceInfoIterator implements InfoTracker{
     }
 
     public String next() {
-        String info = infoList.get(next);
+        String info = (next + 1) + " - " + infoList.get(next);
         next++;
         return info;
     }
