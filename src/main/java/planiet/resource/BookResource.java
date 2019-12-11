@@ -24,6 +24,6 @@ public class BookResource implements LearningResource{
 
     @Override
     public String getInfo() {
-        return null;
+        return "book resource";
     }
 }

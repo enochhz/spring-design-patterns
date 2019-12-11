@@ -24,6 +24,6 @@ public class ArticleResource implements LearningResource{
 
     @Override
     public String getInfo() {
-        return null;
+        return "Article resource";
     }
 }

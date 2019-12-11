@@ -23,6 +23,6 @@ public class VideoResource implements LearningResource{
 
     @Override
     public String getInfo() {
-        return null;
+        return "video resource";
     }
 }
